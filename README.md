@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I’m Eugene 👋
+
+### You can also contact me at:
+[linkedin]
 
 <!--
 **dvornikov/dvornikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[linkedin]: https://www.linkedin.com/in/eugene-dvornikov/
